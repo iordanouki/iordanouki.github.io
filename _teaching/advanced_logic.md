@@ -1,7 +1,7 @@
 ---
 title: "Advanced Logic Design"
 collection: "Teaching Assistant"
-type: "Undergraduate Course"
+type: "Undergraduate Course - Teaching Assistant"
 permalink: /teaching/advanced_logic
 venue: "Technical University of Crete"
 date: 2012-01-01
