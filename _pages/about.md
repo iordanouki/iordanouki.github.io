@@ -27,7 +27,7 @@ I hold a Diploma in Electrical and Computer Engineering from the <a href="https:
 
 
 <h1>News</h1>
-<div style="height:120px;width:600px;border:1px solid #ccc;font:16px/26px, Serif;overflow:auto;">
+<div style="height:120px;width:400px;border:1px solid #ccc;overflow:auto;">
 
   <div>[2023] Tiny Classifiers on <a href="https://arxiv.org/abs/2303.00031">arXiv</a>. </div>
    <div>[2021] Loopapalooza accepted at ISPASS 2021. &#10;</div>
