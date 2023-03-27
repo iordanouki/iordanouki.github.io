@@ -29,14 +29,10 @@ I hold a Diploma in Electrical and Computer Engineering from the <a href="https:
 <h1>News</h1>
 <div style="height:120px;width:600px;border:1px solid #ccc;font:16px/26px, Serif;overflow:auto;">
 
-  [2023] Tiny Classifiers on <a href="https://arxiv.org/abs/2303.00031">arXiv</a>. &#10;
-
-  [2021] Loopapalooza accepted at ISPASS 2021. &#10;
-
-  [2020] Analysis of the Usage Models of System Memory Management Unit in Accelerator-attached Translation Units accepted at MEMSYS 2020. &#10;
-
-  [2020] DBHI accepted at FPL 2020. &#10;
-
-  [2019] SimAcc accepted at FCCM 2019. &#10;
+  <div>[2023] Tiny Classifiers on <a href="https://arxiv.org/abs/2303.00031">arXiv</a>. </div>
+   <div>[2021] Loopapalooza accepted at ISPASS 2021. &#10;</div>
+   <div>[2020] Analysis of the Usage Models of System Memory Management Unit in Accelerator-attached Translation Units accepted at MEMSYS 2020. &#10;</div>
+   <div>[2020] DBHI accepted at FPL 2020. &#10;</div>
+   <div>[2019] SimAcc accepted at FCCM 2019. &#10;</div>
 
 </div>
