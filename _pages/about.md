@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at The University of Manchester, working under the supervision of Prof. Mikel Luj\'an in the Advanced Processor Technologies Research Group (APT).
+I am a Research Associate at The University of Manchester, working with Prof. Mikel Lujan in the Advanced Processor Technologies Research Group (APT).
 
 My current research centers around the interaction of specialised compute kernels with processors in modern systems and their impact on overall system performance. Specifically, I focus on designing hardware kernels for domain-specific applications, with the goal of enabling efficient co-existence with processors in heterogeneous systems. To achieve this, I develop tools and methodologies to simulate these systems from architectural and microarchitectural perspectives.
 
