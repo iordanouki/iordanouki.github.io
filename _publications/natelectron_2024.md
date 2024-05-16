@@ -1,7 +1,7 @@
 ---
 title: "Low-cost and efficient prediction hardware for tabular data using tiny classifier circuits"
 collection: publications
-permalink: /publication/nature_electronics_2024
+permalink: /publication/natelectron_2024
 excerpt: ''
 date: 25-04-2024
 venue: 'Nature Electronics'
