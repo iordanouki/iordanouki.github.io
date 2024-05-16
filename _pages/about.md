@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at The University of Manchester, working with Prof. Mikel Lujan. My current research centers around the interaction of specialised compute kernels with processors in modern systems and their impact on overall system performance. Specifically, I focus on designing hardware kernels for domain-specific applications, with the goal of enabling efficient co-existence with processors in heterogeneous systems. To achieve this, I develop tools and methodologies to simulate these systems from architectural and microarchitectural perspectives.
+I am a Senior ASIC Design Engineer at <a href="https://www.pragmaticsemi.com">Pragmatic Semiconductor</a>. Previously, I was a Research Associate at The University of Manchester. My research focused on the interaction of specialised compute kernels with processors in modern systems and their impact on overall system performance. Before, I spent nine months at Arm Research in Cambridge. My work primarily revolved around exploring parallelism at the loop level. I conducted comprehensive studies on the effects of various parallelisation strategies, constraints, and data dependencies across loops.
 
-Prior to my current role, I spent nine months at Arm Research in Cambridge. My work primarily revolved around exploring parallelism at the loop level. I conducted comprehensive studies on the effects of various parallelisation strategies, constraints, and data dependencies across loops. Before that, I contributed to the <a href="https://apt.cs.manchester.ac.uk/projects/PAMELA/">PAMELA project</a>, where I focused on developing processor simulators using reconfigurable hardware (The University of Manchester).
+During my PhD, I was focused on connecting evolutionary algorithms and hardware design for specific Machine Learning problems. Specifically, I was interested in the design of Machine Learning accelerators for classification of tabular data using evolutionary algorithms, their fabrication on flexible electronics, ASIC and FPGAs. For more details about this work, checkout my published Article in <a href="https://www.nature.com/articles/s41928-024-01157-5">Nature Electronics</a>.
 
 I hold a Diploma degree in Electrical and Computer Engineering from the Technical University of Crete, which I earned in 2017. Subsequently, I pursued and successfully completed my PhD in Computer Science from The University of Manchester in 2023. Additionally, I am proud to be an Angelopoulos - Clinton GIU Fellow and a member of Angelopoulos100.
 
 <i>I live, work and travel under the influence of music..</i>
-
-
-![fpga_cloud_words](fpga.png)

@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=tyjFhO0AAAAJ&hl=el&oi=ao"
-  email            : "konstantinos.iordanou@manchester.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Konstantinos-Iordanou"
+  email            : "kiordanou@pragmaticsemi.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "iordanouki"
+  twitter          :
   vine             :
   weibo            :
   xing             :
