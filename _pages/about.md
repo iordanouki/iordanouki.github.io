@@ -20,4 +20,4 @@ During my PhD, I spent nine months at Arm Research in Cambridge, where I worked 
 <h1>News</h1>
 
 
-<sub><sup>Disclaimer: This is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.</sup></sub>
+<sub><i>Disclaimer: This is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.</i></sub>
