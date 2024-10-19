@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _other
+  # _talks
   - scope:
       path: ""
       type: talks
     values:
-      layout: talks
+      layout: talk
       author_profile: true
       share: true
 
