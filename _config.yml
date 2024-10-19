@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  misc:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -239,9 +239,9 @@ defaults:
   # _other
   - scope:
       path: ""
-      type: misc
+      type: talks
     values:
-      layout: misc
+      layout: talks
       author_profile: true
       share: true
 
