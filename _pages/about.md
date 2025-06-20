@@ -19,9 +19,7 @@ During my PhD, I spent nine months at Arm Research in Cambridge, where I worked 
 
 <h1>News</h1>
 
-- April 2025: Excited to share that I’ve been awarded the Carole Goble Medal for Outstanding Doctoral Paper in Computer Science by the Department of Computer Science, The University of Manchester 
-
-🔗 The awarded work has been published in <a href="https://www.nature.com/articles/s41928-024-01157-5">Nature Electronics</a>.
+- April 2025: ßßI’ve been awarded the Carole Goble Medal for Outstanding Doctoral Paper in Computer Science by the Department of Computer Science, The University of Manchester. The awarded work has been published in <a href="https://www.nature.com/articles/s41928-024-01157-5">Nature Electronics</a>.
 
 - April 2024: Our paper "Low-cost and efficient prediction hardware for tabular data using tiny classifier circuits" is available in <a href="https://www.nature.com/articles/s41928-024-01157-5">Nature Electronics website</a>.
 
