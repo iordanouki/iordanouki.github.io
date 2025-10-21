@@ -18,7 +18,7 @@ During my PhD, I spent nine months at Arm Research in Cambridge, where I worked 
 <i>I live, work and travel under the influence of music..</i>
 
 <h1>News</h1>
-- Our paper "Flexing RISC-V Instruction Subset Processors to Extreme Edge" selected for the MICRO 2025 Best Paper Award! [<a href="hhttps://dl.acm.org/doi/10.1145/3725843.3756036">Find it</a>].
+- Our paper "Flexing RISC-V Instruction Subset Processors to Extreme Edge" selected for the MICRO 2025 Best Paper Award! [<a href="https://dl.acm.org/doi/10.1145/3725843.3756036">Find it</a>].
 
 - Our paper "Flexing RISC-V Instruction Subset Processors to Extreme Edge" has been accepted to MICRO 2025.
 
